@@ -1,3 +1,5 @@
+# Original work done by D4Vinci - all credit towards his/her code.
+
 # Cr3dOv3r [![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) [![Python 2.7](https://img.shields.io/badge/Python-2.7-yellow.svg)](http://www.python.org/download/) ![Build Status](https://img.shields.io/badge/Version-0.3.2-red.svg)
 
 **Your best friend in credential reuse attacks.**
